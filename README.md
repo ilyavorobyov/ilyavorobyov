@@ -1,4 +1,6 @@
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)](https://t.me/iilyavorobyov)
+<a href="https://ilyavorobyov.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen" alt="Open to Work">
+</a>
 ## Hi there 👋
 
 <!--
