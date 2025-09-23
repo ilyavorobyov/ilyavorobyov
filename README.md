@@ -1,4 +1,4 @@
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)](https://your-linkedin.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)](https://t.me/iilyavorobyov)
 ## Hi there 👋
 
 <!--
