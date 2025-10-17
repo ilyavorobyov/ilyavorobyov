@@ -1,5 +1,5 @@
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)](https://ilyavorobyov.github.io/)
-## Hi there 👋
+## Здравствуйте! 👋
 
 ## 👨‍💻 Обо мне
 
